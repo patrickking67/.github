@@ -2,25 +2,13 @@
 <p align="center">Software Engineer &amp; IT Consultant</p>
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&center=true&vCenter=true&width=460&color=38BDF8&lines=Web+%26+cloud+engineering;AI+%26+agentic+automation;Clean%2C+simple+systems" />
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&center=true&vCenter=true&width=460&color=0969DA&lines=Web+%26+cloud+engineering;AI+%26+agentic+automation;Clean%2C+simple+systems" alt="Web & cloud engineering · AI & agentic automation · Clean, simple systems" />
-  </picture>
+  I build for the web and architect on the cloud, focused on AI and agentic automation.
 </p>
 
 <p align="center">
   <a href="https://linkedin.com/in/patrickking67"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square" alt="LinkedIn" /></a>&nbsp;
   <a href="mailto:patrickking673@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>&nbsp;
   <a href="https://github.com/patrickking67"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
-</p>
-
----
-
-<h3 align="center">About</h3>
-
-<p align="center">
-  I build for the web and architect on the cloud, with a focus on artificial<br />
-  intelligence and agentic automation. I like systems that stay clean, simple, and fast.
 </p>
 
 ---
@@ -54,10 +42,4 @@
   <img src="https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white" alt="Cloudflare" />
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square" alt="VS Code" />
-</p>
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=patrickking67&style=flat-square&color=0969DA&label=Profile+views" alt="Profile views" />
 </p>
