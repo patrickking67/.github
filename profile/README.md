@@ -1,45 +1,44 @@
 <h1 align="center">Patrick King</h1>
-<p align="center">Software Engineer &amp; IT Consultant</p>
 
 <p align="center">
-  I build for the web and architect on the cloud, focused on AI and agentic automation.
+  <strong>AI Engineer · Web Developer · Technology Consultant · Founder</strong><br>
+  Los Angeles, California
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/patrickking67"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square" alt="LinkedIn" /></a>&nbsp;
-  <a href="mailto:patrickking673@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>&nbsp;
-  <a href="https://github.com/patrickking67"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
+  I turn emerging technology into practical products, secure cloud systems, and useful tools.
 </p>
 
----
+<p align="center">
+  <a href="https://patrickking67.github.io/portfolio/">Portfolio</a> ·
+  <a href="https://www.linkedin.com/in/patrickking67">LinkedIn</a> ·
+  <a href="https://github.com/patrickking67">GitHub</a>
+</p>
 
-<h3 align="center">Tech Stack</h3>
+## Current work
 
-<p align="center">
-  <img src="https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white" alt="Swift" />
-</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css&logoColor=white" alt="CSS" />
-</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" alt="Django" />
-  <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" alt="Flask" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" alt="Redis" />
-</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square" alt="AWS" />
-  <img src="https://img.shields.io/badge/Azure-0078D4?style=flat-square" alt="Azure" />
-  <img src="https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white" alt="Cloudflare" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square" alt="VS Code" />
-</p>
+- Co-founder and CTO at [Barkrow Systems](https://barkrowsystems.com), leading product and platform engineering for an AI-native commercial insurance product.
+- Project Engineer at [DivergeIT](https://www.divergeit.com), delivering Microsoft 365, identity, endpoint, security, and automation projects.
+- Independent builder across applied AI, web development, developer tools, cloud systems, and creative technology.
+
+## Featured systems
+
+### [CloudScribe](https://github.com/patrickking67/cloudscribe)
+
+A statically typed language for IT automation, built from grammar and semantic analysis through optimized JavaScript generation. Includes 175 automated tests, 97% statement coverage, and direct file output from the CLI. [View the language site](https://patrickking67.github.io/cloudscribe/).
+
+### [PeopleBase](https://github.com/patrickking67/peoplebase)
+
+A Flask and SQLAlchemy people operations workspace with search, position filters, workforce summaries, validated CRUD workflows, filtered CSV exports, and 10 integration tests.
+
+### [NetScope](https://github.com/patrickking67/netscope)
+
+An installable network security toolkit with 10 diagnostics, privacy-conscious breach checks, responsive reporting, and an offline-ready application shell. [Launch NetScope](https://patrickking67.github.io/netscope/).
+
+### [Producer](https://github.com/patrickking67/producer)
+
+An Ableton Live production toolkit with 12 skills, 12 commands, six remote connectors, Max for Live MIDI generation, complete production workflows, and reproducible versioned releases. [Explore Producer](https://patrickking67.github.io/producer/).
+
+## Focus
+
+`Applied AI` · `Web development` · `Agent workflows` · `Cloud and identity` · `Security automation` · `Product engineering`
