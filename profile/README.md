@@ -15,13 +15,13 @@
   <a href="https://github.com/patrickking67">GitHub</a>
 </p>
 
-## Current work
+## Experience
 
-- Co-founder and CTO at [Barkrow Systems](https://barkrowsystems.com), leading product and platform engineering for an AI-native commercial insurance product.
-- Project Engineer at [DivergeIT](https://www.divergeit.com), delivering Microsoft 365, identity, endpoint, security, and automation projects.
+- Co-Founder and CTO at [Barkrow Systems](https://barkrowsystems.com), leading product and platform engineering for an AI-native commercial insurance product.
+- Software Engineer at [DivergeIT](https://www.divergeit.com), delivering Microsoft 365, identity, endpoint, security, and automation projects.
 - Independent builder across applied AI, web development, developer tools, cloud systems, and creative technology.
 
-## Featured systems
+## Projects
 
 ### [CloudScribe](https://github.com/patrickking67/cloudscribe)
 
